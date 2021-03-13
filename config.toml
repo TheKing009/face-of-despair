@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://theking009.github.io/despair/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Despair"
+theme = "dimension"
