@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Universe on Despair</title>
-    <link>http://theking009.github.io/despair/universe/</link>
+    <link>http://theking009.github.io/face-of-despair/universe/</link>
     <description>Recent content in Universe on Despair</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://theking009.github.io/despair/universe/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://theking009.github.io/face-of-despair/universe/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
